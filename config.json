@@ -26,8 +26,20 @@
         "700": "#212931",
         "800": "#181F25",
         "900": "#101418",
-        "999": "#080A0C"
+        "999": "#080A0C",
+        "111": "#00BFFF",
+        "222": "#FFFAFA"
       }
     }
-  }
+  },
+
+"stickers": [
+  "https://preview.redd.it/7gfc0x1mnnu21.jpg?width=640&crop=smart&auto=webp&s=5ff1d2c96469aa1d5d8788abf1593d3cb98fcfb1",
+  "https://media4.giphy.com/media/3ohzdUi5U8LBb4GD4s/giphy.gif?cid=790b7611872aa5d5151c7cc2bac3cc83f1184ac34e95931b&rid=giphy.gif&ct=g",
+   "https://media4.giphy.com/media/3ohzdUi5U8LBb4GD4s/giphy.gif?cid=790b7611872aa5d5151c7cc2bac3cc83f1184ac34e95931b&rid=giphy.gif&ct=g",
+   "https://media4.giphy.com/media/LXP19BrVaOOgE/giphy.gif?cid=790b7611bffe191e3bc81f631830e295a56c37955fb72bcf&rid=giphy.gif&ct=g",
+  "https://media1.giphy.com/media/1iAQLpW2DRW2k/giphy.gif?cid=790b76110930f001d51a3652966075b05177c4347863b607&rid=giphy.gif&ct=g",
+  "https://media1.giphy.com/media/scCdwqIpwnnLq/giphy.gif?cid=790b761170596f45abf4ee7ca821021299f608ed133069a0&rid=giphy.gif&ct=g",
+  "https://media1.giphy.com/media/l4FGpD4wCP6QoE3de/giphy.gif?cid=790b76113a1f71a74f99392284f184e31d4b3b717de7d96d&rid=giphy.gif&ct=g"
+]
 }
